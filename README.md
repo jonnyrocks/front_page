@@ -1,2 +1,2 @@
 # jonnyroccks.github.io
-redirect to mainpage
+redirect to Redirect to https://jonnyrocks.github.io/main/
